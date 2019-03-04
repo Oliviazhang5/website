@@ -1,5 +1,5 @@
 ---
-title: Second post
+title: fifth post
 description: 'This is the second post of the "posts" collection.'
 lang: en
 image: /files/images/WordPress.jpg
